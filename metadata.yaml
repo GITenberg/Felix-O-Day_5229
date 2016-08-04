@@ -1,0 +1,29 @@
+_repo: Felix-O-Day_5229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway wives -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Irish -- United States -- Fiction'
+- GITenberg
+title: Felix O'Day
+url: http://www.gutenberg.org/ebooks/5229
